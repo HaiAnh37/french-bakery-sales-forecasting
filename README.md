@@ -27,7 +27,7 @@ Accurate daily sales forecasting helps bakery owners and managers:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<User_của_bạn>/french-bakery-sales-forecasting.git
+   git clone [https://github.com/](https://github.com/)HaiAnh37/french-bakery-sales-forecasting.git
    cd french-bakery-sales-forecasting
    ```
 
